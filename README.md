@@ -35,9 +35,9 @@ My name is Paulina Ptaszek. I'm a material engineer. I have over three years of 
 
 ## Groups on Facebook
 
-* [Poczatki w IT / Poczatkujacy programisci] (https://www.facebook.com/groups/poczatkiwit/)
-* [Testowanie oprogramowania] (https://pl-pl.facebook.com/groups/TestowanieOprogramowania/)
-* [Programuj, dziewczyno!] (https://pl-pl.facebook.com/groups/programujdziewczyno/)
+* [Poczatki w IT / Poczatkujacy programisci](https://www.facebook.com/groups/poczatkiwit/)
+* [Testowanie oprogramowania](https://pl-pl.facebook.com/groups/TestowanieOprogramowania/)
+* [Programuj, dziewczyno!](https://pl-pl.facebook.com/groups/programujdziewczyno/)
 
 ## My example test scenarios
 
