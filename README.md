@@ -16,6 +16,7 @@ My name is Paulina Ptaszek. I'm a material engineer. I have over three years of 
 ## My courses
 
 * Scrum: Advanced (Linkedin Lerning)
+* Basic SQL course, MySQL
  
 ## Conferences 
 
